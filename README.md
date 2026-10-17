@@ -1,16 +1,35 @@
-## Hi there 👋
+# TheMuffinman20
 
-<!--
-**TheMuffinman20/TheMuffinman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **HOGENT**, trying to learn everything there is about programming and networking.
 
-Here are some ideas to get you started:
+[Linus Quote] - *Linus Torvalds*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+| Project | What |
+|---|---|
+| [How to Linux](link) | Installing Linux from scratch |
+| [StudentBuilds](link) | Online shop for desktops & components |
+| [Dotfiles](link) | Online shop for desktops & components |
+
+## Toolbox
+
+Python, Java, JavaScript, PowerShell, SQL
+**Web:** HTML, CSS, JavaScript
+**Operating systems:** Linux (CachyOS), Windows
+**Infrastructure:** [e.g. Cisco, VLANs, routing, Windows Server]
+**Tools:** Git, GitHub
+
+## Operating systems
+
+## Environment
+
+- **Daily driver:** CachyOS (Arch-based) running the Caelestia shell on Hyprland, dual-booted with Windows
+- **Why both:** Linux for development, scripting and tooling; Windows for PowerShell, Active Directory and enterprise-oriented work
+- **Dotfiles:** [link to your dotfiles repo]
+
+## Get in touch
+
+I'm open to internships, collaboration and interesting problems.
+
+[LinkedIn](link) · [thibo.daelman@student.hogent.be]
