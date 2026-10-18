@@ -9,7 +9,8 @@
   - Outlook: [**thibo.daelman@student.hogent.be**](mailto:thibo.daelman@student.hogent.be)
 
 ## Currently  
-I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything there is about programming and networking. I also build desktops and experiment with [**Linux**](https://cachyos.com) when I'm free.
+I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything there is about programming and networking.  
+I also build desktops and experiment with [**Linux**](https://cachyos.com) when I'm free.
 
 ![CachyOS](https://img.shields.io/badge/CachyOS-08A283?style=for-the-badge&logo=cachyos&logoColor=white)
 ![Caelestia Shell](https://img.shields.io/badge/Caelestia%20Shell-7AA2F7?style=for-the-badge)
@@ -18,9 +19,9 @@ I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything the
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**How to Linux**](link) | Guide to installing Linux | Markdown |
-| [**StudentBuilds**](link) | Online webshop for desktops | JavaScript, HTML, CSS|
-| [**Dotfiles**](link) | Online webshop for desktops | Markdown |
+| [**How to Linux**](link) (In Development) | Guide to installing Linux | Markdown |
+| [**StudentBuilds**](link) (In Development) | Online webshop for desktops | JavaScript, HTML, CSS|
+| [**Dotfiles**](link) (In Development) | All custom configuration files | Markdown |
 
 ## Skills
 
@@ -58,3 +59,9 @@ I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything the
     </tr>
   </tbody>
 </table>
+
+## Environment
+
+</picture>
+  <img src="images/Caelestia.png" alt="Caelestia Shell" style="border-radius: 10px">
+</picture>
