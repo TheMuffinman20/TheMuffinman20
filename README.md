@@ -1,59 +1,66 @@
 # TheMuffinman20
 
-*"Intelligence is the ability to avoid work, yet getting the work done."* - Linus Torvalds
+> "Intelligence is the ability to avoid work, yet getting the work done." - Linus Torvalds
 
-I'm a student at **HOGENT**, trying to learn everything there is about programming and networking.
-
+- **Pronouns:** He/Him
 - **How to reach me:**
-    - Github: [TheMuffinman20](link)
-    - Discord: [rTheMuffinman](link)
-    - Outlook: [thibo.daelman@student.hogent.be](link)
-- **Curent Operating system**: CachyOS (Linux)  
-- **Curent Shell**: Caelestia Shell
+  - Discord: · rTheMuffinman
+  - Github: [**TheMuffinman20**](https://github.com/TheMuffinman20)
+  - Outlook: [**thibo.daelman@student.hogent.be**](mailto:thibo.daelman@student.hogent.be)
 
-## Toolbox
+## Currently  
+I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything there is about programming and networking. I also build desktops and experiment with [**Linux**](https://cachyos.com) when I'm free.
 
-<table border>
+![CachyOS](https://img.shields.io/badge/CachyOS-08A283?style=for-the-badge&logo=cachyos&logoColor=white)
+![Caelestia Shell](https://img.shields.io/badge/Caelestia%20Shell-7AA2F7?style=for-the-badge)
+
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**How to Linux**](link) | Guide to installing Linux | Markdown |
+| [**StudentBuilds**](link) | Online webshop for desktops | JavaScript, HTML, CSS|
+| [**Dotfiles**](link) | Online webshop for desktops | Markdown |
+
+## Skills
+
+<table style="border: 2px solid grey">
   <thead>
     <tr>
-      <th>I have</th>
-      <th>I'm learning</th>
-      <th>I'm using</th>
+      <th style="border: 1px solid grey">I have</th>
+      <th style="border: 1px solid grey">I'm learning</th>
+      <th style="border: 1px solid grey">I use</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="border: 1px solid grey">
     <tr>
-      <td>
-      <img src="images/JavaScript_logo.png" alt="" width="50">
-      <img src="images/HTML_logo.png" alt="" width="50">
-      <img src="images/CSS_logo.png" alt="" width="50"><br>
-      <img src="images/Git_logo.png" alt="" width="50">
-      <img src="images/Java_logo.png" alt="" width="50">
-      <img src="images/VSC_logo.png" alt="" width="50"><br>
-      <img src="images/Github_logo.png" alt="" width="50">
-      <img src="images/Markdown_logo.png" alt="" width="50">
+      <td style="border: 1px solid grey">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="" width="50"><br>
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="" width="50"><br>
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=md&theme=dark" alt="" width="50">
       </td>
-      <td>
-      <img src="images/PowerShell_logo.png" alt="" width="50">
-      <img src="images/Python_logo.png" alt="" width="50">
-      <img src="images/SQL_logo.png" alt="" width="50">
+      <td style="border: 1px solid grey">
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="" width="50">
       </td>
-      <td>
-      <img src="images/CachyOS_logo.png" alt="" width="50">
-      <img src="images/Caelestia_logo.png" alt="" width="50" style="border-radius: 5px">
-      <img src="images/Hyprland_logo.png" alt="" width="50" style="border-radius: 5px"><br>
-      <img src="images/Windows_logo.png" alt="" width="45" style="border-radius: 5px">
+      <td style="border: 1px solid grey">
+      <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="" width="50"><br>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="" width="50">
+      <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="" width="50">
       </td>
     </tr>
   </tbody>
 </table>
 
-## Get in touch
+## Environment
 
-I'm open to internships, collaboration and interesting problems.
-
-|  |  |
-|---|---|
-|<img src="images/Github_logo.png" alt="" width="50">| **Github** · TheMuffinman20 |
-|<img src="images/Discord_logo.png" alt="" width="50">| **Discord** · rTheMuffinman |
-|<img src="images/Outlook_logo.png" alt="" width="50">| **Outlook** · thibo.daelman@student.hogent.be |
+</picture>
+  <img src="images/Caelestia.png" alt="Caelestia Shell" style="border-radius: 10px">
+</picture>
