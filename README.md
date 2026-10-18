@@ -18,9 +18,9 @@ I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything the
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**How to Linux**](link) | Guide to installing Linux | Markdown |
-| [**StudentBuilds**](link) | Online webshop for desktops | JavaScript, HTML, CSS|
-| [**Dotfiles**](link) | All custom configuration files | Markdown |
+| [**How to Linux**](link) (In Development) | Guide to installing Linux | Markdown |
+| [**StudentBuilds**](link) (In Development) | Online webshop for desktops | JavaScript, HTML, CSS|
+| [**Dotfiles**](link) (In Development) | All custom configuration files | Markdown |
 
 ## Skills
 
