@@ -4,7 +4,7 @@
 
 - **Pronouns:** He/Him
 - **How to reach me:**
-  - Discord: · rTheMuffinman
+  - Discord: rTheMuffinman
   - Github: [**TheMuffinman20**](https://github.com/TheMuffinman20)
   - Outlook: [**thibo.daelman@student.hogent.be**](mailto:thibo.daelman@student.hogent.be)
 
@@ -58,9 +58,3 @@ I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything the
     </tr>
   </tbody>
 </table>
-
-## Environment
-
-</picture>
-  <img src="images/Caelestia.png" alt="Caelestia Shell" style="border-radius: 10px">
-</picture>
