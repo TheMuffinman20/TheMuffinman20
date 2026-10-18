@@ -59,9 +59,3 @@ I also build desktops and experiment with [**Linux**](https://cachyos.com) when 
     </tr>
   </tbody>
 </table>
-
-## Environment
-
-</picture>
-  <img src="images/Caelestia.png" alt="Caelestia Shell" style="border-radius: 10px">
-</picture>
