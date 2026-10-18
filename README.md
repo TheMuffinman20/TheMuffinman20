@@ -20,7 +20,7 @@ I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything the
 |---|---|---|
 | [**How to Linux**](link) | Guide to installing Linux | Markdown |
 | [**StudentBuilds**](link) | Online webshop for desktops | JavaScript, HTML, CSS|
-| [**Dotfiles**](link) | Online webshop for desktops | Markdown |
+| [**Dotfiles**](link) | All custom configuration files | Markdown |
 
 ## Skills
 
