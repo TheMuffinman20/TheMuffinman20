@@ -4,7 +4,7 @@
 
 - **Pronouns:** He/Him
 - **How to reach me:**
-  - Discord: rTheMuffinman
+  - Discord: [**rTheMuffinman**](https://discord.com/users/1141459974975930389)
   - Github: [**TheMuffinman20**](https://github.com/TheMuffinman20)
   - Outlook: [**thibo.daelman@student.hogent.be**](mailto:thibo.daelman@student.hogent.be)
 
