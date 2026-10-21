@@ -1,24 +1,27 @@
-# TheMuffinman20
+# TheMuffinman20  
 
 > "Intelligence is the ability to avoid work, yet getting the work done." - Linus Torvalds
 
-- **Pronouns:** He/Him
-- **How to reach me:**
-  - Discord: [**rTheMuffinman**](https://discord.com/users/1141459974975930389)
-  - Github: [**TheMuffinman20**](https://github.com/TheMuffinman20)
-  - Outlook: [**thibo.daelman@student.hogent.be**](mailto:thibo.daelman@student.hogent.be)
+## About me  
 
-## Currently  
 I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything there is about programming and networking.  
 I also build desktops and experiment with [**Linux**](https://cachyos.com) when I'm free.
 
-## Projects
+## Contact
+- Discord: [**rTheMuffinman**](https://discord.com/users/1141459974975930389)
+- GitHub: [**TheMuffinman20**](https://github.com/TheMuffinman20)
+- Email: [**thibo.daelman@student.hogent.be**](mailto:thibo.daelman@student.hogent.be)
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**How to Linux**](https://github.com/TheMuffinman20/How-to-Linux) | Guide to installing Linux | Markdown |
-| **StudentBuilds** (In Development) | Online webshop for desktops | JavaScript, HTML, CSS|
-| **Dotfiles** (In Development) | All custom configuration files | Markdown |
+## Currently
+- Studying at HOGENT
+- Learning more about programming and networking
+- Building desktops and experimenting with Linux
+- Working on personal projects and systems-focused learning
+
+## Projects
+- [How to Linux](https://github.com/TheMuffinman20/How-to-Linux) — A guide to installing and using Linux
+- StudentBuilds — A desktop webshop project in development
+- Dotfiles — My custom configuration files and setup in development
 
 ## Skills
 
@@ -51,7 +54,6 @@ I also build desktops and experiment with [**Linux**](https://cachyos.com) when 
       <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="" width="50">
       <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="" width="50"><br>
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="" width="50">
-      <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="" width="50">
       </td>
     </tr>
   </tbody>
