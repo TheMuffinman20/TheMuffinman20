@@ -12,9 +12,6 @@
 I'm a student at [**HOGENT**](https://hogent.be), trying to learn everything there is about programming and networking.  
 I also build desktops and experiment with [**Linux**](https://cachyos.com) when I'm free.
 
-![CachyOS](https://img.shields.io/badge/CachyOS-08A283?style=for-the-badge&logo=cachyos&logoColor=white)
-![Caelestia Shell](https://img.shields.io/badge/Caelestia%20Shell-7AA2F7?style=for-the-badge)
-
 ## Projects
 
 | Project | What it is | Stack |
