@@ -19,9 +19,9 @@ I also build desktops and experiment with [**Linux**](https://cachyos.com) when 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**How to Linux**](link) (In Development) | Guide to installing Linux | Markdown |
-| [**StudentBuilds**](link) (In Development) | Online webshop for desktops | JavaScript, HTML, CSS|
-| [**Dotfiles**](link) (In Development) | All custom configuration files | Markdown |
+| [**How to Linux**](https://github.com/TheMuffinman20/How-to-Linux) | Guide to installing Linux | Markdown |
+| **StudentBuilds** (In Development) | Online webshop for desktops | JavaScript, HTML, CSS|
+| **Dotfiles** (In Development) | All custom configuration files | Markdown |
 
 ## Skills
 
